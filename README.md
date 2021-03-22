@@ -19,7 +19,8 @@ Game map:       the world map will be a 2 dimensional grid ( X ; Y ) filled with
                 (2 new auctions start after 1 plot is sold)
 
 ownable Game_Objects: 
-(each will have their own contract because its erc721 and not 1155
+
+
 
   Plot of land:  piece of land on the map, starting from X to X and ending at Y to Y.
                land can be used to build a farm on, or as field for the goats (shed)
